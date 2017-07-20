@@ -1,0 +1,7 @@
+library(shiny)
+library(PerformanceAnalytics)
+library(xts)
+library(timeSeries)
+library(plotly)
+library(tidyr)
+library(lubridate)
